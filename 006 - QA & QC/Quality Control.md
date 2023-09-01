@@ -1,4 +1,4 @@
-﻿**Quality Control:** 
+﻿## Quality Control: ##
 
 - Quality control (QC) is a process through which a business seeks to ensure that product quality is maintained or improved.
 
