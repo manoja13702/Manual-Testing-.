@@ -8,5 +8,5 @@ Example: Login with invalid username and password three times keeps the account 
 
 Example:
 
-![](Aspose.Words.47da23e0-5a18-4481-afa0-73c5dc483bea.001.png)
+![STT](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/808268dd-3424-47fc-9f85-6cc7eddee589)
 
