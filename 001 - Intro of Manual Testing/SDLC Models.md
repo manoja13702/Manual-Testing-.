@@ -4,8 +4,7 @@
 1) It is the first approach and the basic model used in software development. It is a simple model that is easy to use as well as understand. The execution happens in the sequence order, which means that the outcome of the one-stage is equal to the input of another stage. That's why it is also known as the Linear-sequential life cycle model.
 1) To avoid the overlapping issues of the multiple phases, every stage should be completed before moving to the next stage. Each stage of the waterfall model involves the deliverable of the previous stage, like requirements, are transferred to the design phase, design moved to development, and so on. When we have the Life critical (hospital application) and Machine critical (Military project), we will widely use the waterfall model.
 
-![WM](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/e384c476-ace2-46cd-a93f-7fd8e3d87c40
-)
+![WM](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/e384c476-ace2-46cd-a93f-7fd8e3d87c40)
 
 
 
