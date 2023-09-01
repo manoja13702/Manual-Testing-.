@@ -4,5 +4,5 @@ Use case testing involves testing a software application’s functionality by si
 
 Example:
 
-![](Aspose.Words.d23ae010-cb2c-4159-8793-922126203bcc.001.png)
+![UCT](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/3ccfb56a-caa5-4e4e-839b-81a72141bba2)
 
