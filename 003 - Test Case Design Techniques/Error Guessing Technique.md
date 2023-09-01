@@ -4,7 +4,6 @@ i) Error Guessing is used to find bugs in software application based on testers 
 
 ii)  Here we won’t follow any specific rules.
 
-Example:
 
-![](Aspose.Words.d649832f-c451-4a2e-8beb-0f5d7e0aa647.001.png)
 
+![EGT](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/3424b9f6-661f-4829-8b46-ac8304b0904f)
