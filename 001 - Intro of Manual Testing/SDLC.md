@@ -3,7 +3,7 @@
    
   ii) SDLC describes various phases of software development and the order of execution of phases. Each phase requires deliverable from the previous phase in a life cycle of software development. Requirements are translated into design, design into development and development into testing; after testing, it is given to the client.
 
-
+![WM](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/e384c476-ace2-46cd-a93f-7fd8e3d87c40)
 
 **Phases of SDLC**.
 
