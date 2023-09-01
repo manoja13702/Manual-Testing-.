@@ -44,7 +44,7 @@
 
 
 - Spiral  :
-1) `  `The biggest problem we face in the waterfall model is that taking a long duration to complete the product, and the software became outdated. To solve this problem, we have a new approach, which is known as the Spiral model. The spiral model is also known as the cyclic model.
+1) The biggest problem we face in the waterfall model is that taking a long duration to complete the product, and the software became outdated. To solve this problem, we have a new approach, which is known as the Spiral model. The spiral model is also known as the cyclic model.
 1) In this model, we create the application module by module and handed over to the customer so that they can start using the application at a very early stage. And we prepare this model only when the module is dependent on each other. In this model, we develop the application in the stages because sometimes the client gives the requirements in between the process.
 
 
@@ -76,7 +76,6 @@
 
 ![](Aspose.Words.3464c7ea-0455-4010-9ca5-80c96d9736d6.004.png)
 
+![Agile pros & cons](<img width="383" alt="Agile New" src="https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/8446fa59-0c7a-43d1-ad2b-66a6cab84e3b">)
 
-`                     `Advantages                                                         Disadvantages
 
-![](Aspose.Words.3464c7ea-0455-4010-9ca5-80c96d9736d6.005.png)
