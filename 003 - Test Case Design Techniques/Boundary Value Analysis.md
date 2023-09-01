@@ -4,4 +4,4 @@ Boundary value analysis is based on testing the boundary values of valid and inv
 
 Example :
 
-![](Aspose.Words.b0c8986a-d21e-4142-9781-9624726170aa.001.png)
+![BVT](<img width="460" alt="BvT" src="https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/ef3f674b-0c14-4a71-a088-a0bcc4c27749">)
