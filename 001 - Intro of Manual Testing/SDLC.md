@@ -1,5 +1,6 @@
 ﻿1)  ## SDLC – Software Development Life Cycle. ##
    i) SDLC is a process that creates a structure of development of software. There are different phases within SDLC, and each phase has its various activities. It makes the development team able to design, create, and deliver a high-quality product.
+   
   ii) SDLC describes various phases of software development and the order of execution of phases. Each phase requires deliverable from the previous phase in a life cycle of software development. Requirements are translated into design, design into development and development into testing; after testing, it is given to the client.
 
 Requirement Gathering
