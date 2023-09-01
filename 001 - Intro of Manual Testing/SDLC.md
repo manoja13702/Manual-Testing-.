@@ -48,8 +48,8 @@ Maintenance
 1) This is the most crucial phase of the software development life cycle for the developing team as well as for the project manager. During this phase, the client states requirements, specifications, expectations, and any other special requirement related to the product or software. All these are gathered by the business manager or project manager or analyst of the service providing company.
 1) The requirement includes how the product will be used and who will use the product to determine the load of operations. All information gathered from this phase is critical to developing the product as per the customer requirements.
 - Analysis :
-- 
-A phase that defines the requirements. Without regard to the means by which they will be achieved, the system’s needs are specified during the analysis phase. The customer’s issue is outlined at this stage. At the conclusion of this stage, a requirement document will have been produced as the deliverable result
+  
+1) A phase that defines the requirements. Without regard to the means by which they will be achieved, the system’s needs are specified during the analysis phase. The customer’s issue is outlined at this stage. At the conclusion of this stage, a requirement document will have been produced as the deliverable result
 
 - Design :
 1) The design phase includes a detailed analysis of new software according to the requirement phase. This is the high priority phase in the development life cycle of a system because the logical designing of the system is converted into physical designing. The output of the requirement phase is a collection of things that are required, and the design phase gives the way to accomplish these requirements. The decision of all required essential tools such as **programming language** like Java, .NET, PHP, a **database** like Oracle, MySQL, a combination of hardware and software to provide a platform on which software can run without any problem is taken in this phase.
