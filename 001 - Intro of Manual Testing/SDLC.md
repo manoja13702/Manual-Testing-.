@@ -3,43 +3,6 @@
    
   ii) SDLC describes various phases of software development and the order of execution of phases. Each phase requires deliverable from the previous phase in a life cycle of software development. Requirements are translated into design, design into development and development into testing; after testing, it is given to the client.
 
-Requirement Gathering
-
-![](Aspose.Words.736b20b0-925f-4082-9f3f-57168d05a695.001.png)
-
-![ref1]
-
-Analysis
-
-![](Aspose.Words.736b20b0-925f-4082-9f3f-57168d05a695.003.png)
-
-![ref1]
-
-Design
-
-![](Aspose.Words.736b20b0-925f-4082-9f3f-57168d05a695.004.png)
-
-![ref1]
-
-Development
-
-![](Aspose.Words.736b20b0-925f-4082-9f3f-57168d05a695.005.png)
-
-![ref1]
-
-Testing
-![](Aspose.Words.736b20b0-925f-4082-9f3f-57168d05a695.006.png)
-
-![ref1]
-
-Deployment
-![](Aspose.Words.736b20b0-925f-4082-9f3f-57168d05a695.007.png)
-
-![ref1]
-
-Maintenance
-![](Aspose.Words.736b20b0-925f-4082-9f3f-57168d05a695.008.png)
-
 
 
 **Phases of SDLC**.
