@@ -6,5 +6,5 @@ Example: Consider that we have to select an age between 18-56,Here the Valid inp
 
 Some Other Example:
 
-![](Aspose.Words.c8274664-a381-4eb4-8810-69e26eae058e.001.png)
+![EPT](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/0f92bf97-cf80-4b20-b9b4-7cea122a34fa)
 
