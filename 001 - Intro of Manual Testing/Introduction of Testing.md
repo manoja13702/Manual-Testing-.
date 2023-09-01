@@ -4,7 +4,7 @@ The process of Software Testing aims not only at finding faults in the existing 
 
 ![](Aspose.Words.57975e90-435c-4be0-93f2-335289c59732.001.png)
 
-**Software Testing can be broadly classified into two types:**
+## Software Testing can be broadly classified into two types: ##
 
 **Manual Testing**:
 
@@ -18,6 +18,6 @@ The process of Software Testing aims not only at finding faults in the existing 
 
 ![](Aspose.Words.57975e90-435c-4be0-93f2-335289c59732.002.png)
 
-**Prerequisite to learn Software Testing:**
+## Prerequisite to learn Software Testing: ## 
 
 Before learning software testing, you should have basic knowledge of basic computer functionality, basic mathematics, computer language, and logical operators.
