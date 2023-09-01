@@ -14,5 +14,5 @@ Conditions 2: Enter invalid username and valid password and Click Login. o Actio
 
 Some other example:
 
-![DTT](<img width="536" alt="DTT" src="https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/502b44ce-8ff0-4252-8b60-df6b2f30601e">)
+![DTT](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/502b44ce-8ff0-4252-8b60-df6b2f30601e)
 
