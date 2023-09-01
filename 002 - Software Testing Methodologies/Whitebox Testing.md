@@ -1,6 +1,6 @@
 ﻿- **White-box Testing.**
 
-`                                       `White-box testing, also known as clear-box testing or structural testing, involves examining the internal logic and code structure of a software application. Testers who perform white-box testing have knowledge of the internal workings of the code sucjh as the source code, algorithms, data structures and program flow. This knowledge allows them to design test cases that target specific paths, conditions and branches within the code.
+White-box testing, also known as clear-box testing or structural testing, involves examining the internal logic and code structure of a software application. Testers who perform white-box testing have knowledge of the internal workings of the code sucjh as the source code, algorithms, data structures and program flow. This knowledge allows them to design test cases that target specific paths, conditions and branches within the code.
 
 **Key Characteristics of white-box testing:**
 
