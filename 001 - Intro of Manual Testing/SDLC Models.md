@@ -4,7 +4,8 @@
 1) It is the first approach and the basic model used in software development. It is a simple model that is easy to use as well as understand. The execution happens in the sequence order, which means that the outcome of the one-stage is equal to the input of another stage. That's why it is also known as the Linear-sequential life cycle model.
 1) To avoid the overlapping issues of the multiple phases, every stage should be completed before moving to the next stage. Each stage of the waterfall model involves the deliverable of the previous stage, like requirements, are transferred to the design phase, design moved to development, and so on. When we have the Life critical (hospital application) and Machine critical (Military project), we will widely use the waterfall model.
 
-![](Aspose.Words.3464c7ea-0455-4010-9ca5-80c96d9736d6.001.png)
+![WM](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/e384c476-ace2-46cd-a93f-7fd8e3d87c40
+)
 
 
 
@@ -28,7 +29,7 @@
 1) This model came up to overcome the drawback of the waterfall model. And in this model, testing starts from the requirement stage itself.
 1) In this model, first, all the activities go on the **downward direction**, and at one point in time, it starts moving in the **upward direction** to re-use the test document for the testing process and forms a **V** shape. Hence it is known as the **V model**.
 
-![](Aspose.Words.3464c7ea-0455-4010-9ca5-80c96d9736d6.002.png)
+![VM](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/3b315f59-795e-4a56-9183-eebad84ff4fd)
 
 
 
@@ -48,7 +49,7 @@
 1) In this model, we create the application module by module and handed over to the customer so that they can start using the application at a very early stage. And we prepare this model only when the module is dependent on each other. In this model, we develop the application in the stages because sometimes the client gives the requirements in between the process.
 
 
-![](Aspose.Words.3464c7ea-0455-4010-9ca5-80c96d9736d6.003.png)
+![SM](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/0318bb4c-f005-40e8-949c-64e92d952af8)
 
 
 
@@ -74,8 +75,7 @@
 
 
 
-![](Aspose.Words.3464c7ea-0455-4010-9ca5-80c96d9736d6.004.png)
+![AM](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/1c9c5b2a-04ff-4b3e-8cf8-40b1f9e9a01a)
 
-![Agile pros & cons](<img width="383" alt="Agile New" src="https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/8446fa59-0c7a-43d1-ad2b-66a6cab84e3b">)
-
+![PC](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/5b845cb3-0499-47e7-9d42-a6935e46b23f)
 
