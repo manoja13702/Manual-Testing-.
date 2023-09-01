@@ -1,24 +1,24 @@
-﻿**Test Case Design:** 
+﻿## Test Case Design: ##
 
-`                        `Test case design is the process of planning and creating test cases that outline the steps, conditions, and expected outcomes of testing a specific aspect of a software application.
+Test case design is the process of planning and creating test cases that outline the steps, conditions, and expected outcomes of testing a specific aspect of a software application.
 
-1) **Write Test Cases:**
-**
-`             `Writing test cases involves documenting detailed instructions on how to perform specific tests, including input data, steps to execute, and the expected results.
+- **Write Test Cases:**
 
-1) **Review Test Cases:**
+Writing test cases involves documenting detailed instructions on how to perform specific tests, including input data, steps to execute, and the expected results.
 
-`                        `Reviewing test cases is a quality assurance step where other team members or stakeholders examine the written test cases to ensure accuracy, completeness, and adherence to requirements.
+- **Review Test Cases:**
 
-1) **Test Cases Template:**
+Reviewing test cases is a quality assurance step where other team members or stakeholders examine the written test cases to ensure accuracy, completeness, and adherence to requirements.
 
-`                        `A test case template is a standardized format that outlines the structure and content of a test case, including sections for test ID, description, steps, expected results, and more.
+- **Test Cases Template:**
 
-1) **Types of Test Cases:**
+A test case template is a standardized format that outlines the structure and content of a test case, including sections for test ID, description, steps, expected results, and more.
 
-`                               `Test cases can be categorized into various types, such as functional, regression, integration, performance, usability, and more, each focusing on different aspects of testing.
+- **Types of Test Cases:**
 
-1) **Difference between Test Scenarios and Test Cases:**
+Test cases can be categorized into various types, such as functional, regression, integration, performance, usability, and more, each focusing on different aspects of testing.
 
-`                               `Test scenarios outline high-level testing scenarios or conditions to be tested, while test cases provide detailed steps and expected outcomes for each scenario. Test scenarios are broader, while test cases are more specific.
+- **Difference between Test Scenarios and Test Cases:**
+
+Test scenarios outline high-level testing scenarios or conditions to be tested, while test cases provide detailed steps and expected outcomes for each scenario. Test scenarios are broader, while test cases are more specific.
 
