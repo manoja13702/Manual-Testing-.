@@ -1,4 +1,4 @@
-﻿**Difference between QA & QC:**
+﻿## Difference between QA & QC: ##
 
 |**Quality Assurance (QA)**|**Quality Control (QC)**|
 | :-: | :-: |
