@@ -1,4 +1,4 @@
-﻿**Difference between Manual and Automation Testing?**
+﻿## Difference between Manual and Automation Testing? ##
 
 |**Manual Testing**|**Automation Testing**|
 | :- | :- |
