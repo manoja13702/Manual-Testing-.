@@ -1,7 +1,8 @@
-﻿- ## Black-box Testing ##
+﻿ ## Black-box Testing ##
  
-Black-box testing, also known as functional testing, treats the software application as a “Black-box” whose internal workings are not known to the tester. Testers who perform black-box testing focus on testing the application’s inputs, outputs and functionality without any knowledge of the underlying code.
+- Black-box testing, also known as functional testing, treats the software application as a “Black-box” whose internal workings are not known to the tester. Testers who perform black-box testing focus on testing the application’s inputs, outputs and functionality without any knowledge of the underlying code.
 
+- Internals are not known, Testing is done by the user prespective.
 
 
 **Key Characteristics of black-box testing:**
