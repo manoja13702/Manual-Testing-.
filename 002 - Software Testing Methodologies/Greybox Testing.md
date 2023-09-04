@@ -1,7 +1,8 @@
-﻿- **Grey-box Testing.**
+﻿ **Grey-box Testing.**
 
-Grey-box testing is a combination of both white-box and black-box testing. Testers who perform grey-box testing have partial knowledge of this internal code and design but not a comprehensive understanding. This approach allows testers to design test cases based on both functional specifications and some insights into the code structure.
+- Grey-box testing is a combination of both white-box and black-box testing. Testers who perform grey-box testing have partial knowledge of this internal code and design but not a comprehensive understanding. This approach allows testers to design test cases based on both functional specifications and some insights into the code structure.
 
+- Internals are partially known to the tester, Testing is performed from the user prespective with access to internals
 
 
 **Key Characteristics of grey-box testing:**
