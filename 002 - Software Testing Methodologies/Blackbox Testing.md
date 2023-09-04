@@ -12,3 +12,5 @@ Black-box testing, also known as functional testing, treats the software applica
 1) Aims to validate that the software meets specified requirements and functions correctly.
 1) Can uncover issues related to incorrect functionality, usability and performance.
 
+For Example:-
+      Simple example of black-box testing is a TV. As a user, we watch the TV but we don’t need the knowledge of how the TV is built and how it works, etc. We just need to know how to operate the remote control to switch on, switch off, change channels, increase/decrease volume, etc.
