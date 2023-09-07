@@ -10,3 +10,4 @@ White-box testing, also known as clear-box testing or structural testing, involv
 1) Can uncover coding errors, logic flaws and improper use of data structures.
 1) Requires programming skills and understanding of the codebase.
 
+**For Example:** Consider assembling a model car or airplane from a kit. You follow the step-by-step instructions, paying close attention to the order of assembly and the correct placement of parts. This meticulous approach ensures the model works as intended
