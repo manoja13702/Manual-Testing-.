@@ -2,9 +2,9 @@
  
 i) Unit testing involves the testing of each unit or an individual component of the software application. It is the first level of functional testing. The aim behind unit testing is to validate unit components with its performance.
 
-ii) A unit is a single testable part of a software system and tested during the development phase of the application software.
+ii) A unit is a single testable part of a software system and tested during the development phase of the application software. White box testing approach used for unit testing and usually done by the developers.
 
-iii) The purpose of unit testing is to test the correctness of isolated code. A unit component is an individual function or code of the application. White box testing approach used for unit testing and usually done by the developers.
+![UT](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/f7212f11-2599-4d10-af1c-5663b59f38f6) ![UT](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/936681ff-eb00-4f39-a188-65ca1a0a7c2b)
 
 - **Integration Testing:**
   
@@ -24,7 +24,6 @@ ii) To check the end-to-end flow of an application or the software as a user is 
 
 iii) It is **end-to-end testing** where the testing environment is similar to the production environment.
 
-.
 
 - **User Acceptance Testing:**
   
@@ -32,26 +31,25 @@ i) User acceptance testing (UAT) is a type of testing, which is done by the cust
 
 ii) In this, we concentrate only on those features and scenarios which are regularly used by the customer or mostly user scenarios for the business or those scenarios which are used daily by the end-user or the customer.
 
+![UAT](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/d5ebdc43-aa8d-4c6a-aa0e-0d3415035d80)
 - **Smoke Testing:**
   
-i) Smoke Testing comes into the picture at the time of receiving build software from the development team. The purpose of smoke testing is to determine whether the build software is testable or not. It is done at the time of "building software." This process is also known as "Day 0".
+i) Smoke Testing comes into the picture at the time of receiving build software from the development team. The purpose of smoke testing is to determine whether the build software is testable or not. " This process is also known as "Day 0".
 
 ii) It is a time-saving process. It reduces testing time because testing is done only when the key features of the application are not working or if the key bugs are not fixed. The focus of Smoke Testing is on the workflow of the core and primary functions of the application.
 
 iii) Testing the basic & critical feature of an application before doing one round of deep, rigorous testing (before checking all possible positive and negative values) is known as smoke testing.
 
-
-
+![SMT](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/257182a6-80f6-41df-91f7-bc4d76644e88)
 
 - **Regression Testing:**
   
-i) Regression testing is a black box testing techniques. It is used to authenticate a code change in the software does not impact the existing functionality of the product. Regression testing is making sure that the product works fine with new functionality, [bug](https://www.javatpoint.com/bug-in-software-testing) fixes, or any change in the existing feature.
+i) Regression testing is a black box testing techniques. It is used to check that a code change in the software does not impact the existing functionality of the product. Regression testing is making sure that the product works fine with new functionality, bug fixes, or any change in the existing feature.
 
-ii) Regression testing is a type of [software testing](https://www.javatpoint.com/software-testing-tutorial). Test cases are re-executed to check the previous functionality of the application is working fine, and the new changes have not produced any bugs.
+ii)  Regression means Re-test those parts of the application, which are unchanged.
 
-iii) Regression testing can be performed on a new build when there is a significant change in the original functionality. It ensures that the code still works even when the changes are occurring. Regression means Re-test those parts of the application, which are unchanged.
+![RT](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/ce468812-5e8e-4b50-8eb1-1316a39fa1ce)
 
-.
 
 - **Sanity Testing:**
   
@@ -61,7 +59,11 @@ ii) In other words, we can say that sanity testing is performed to make sure tha
 
 iii) Sanity testing also ensures that the modification in the code or functions does not affect the associated modules. Consequently, it can be applied only on connected modules that can be impacted.
 
+![ST](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/c830f1f9-5be1-45a9-9169-8b2129180ebc)
+
 - **Retesting:**
 
-Retesting occurs after a defect has been fixed; It is designed to check whether the defects have been fixed. Retesting is typically performed by the same testers who identified the defect for the first time
+Retesting occurs after a defect has been fixed; It is designed to check whether the defects have been fixed. Retesting is typically performed by the same testers who identified the defect for the first time.
+
+![RET](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/fc076a3a-ab9d-4bf3-a88c-3072d92f787c)
 
