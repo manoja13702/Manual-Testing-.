@@ -16,14 +16,13 @@ ii) Unit Testing  uses modules for testing purpose, and these modules are combi
 
 - **System Testing:**
 
-i) System Testing includes testing of a fully integrated software system. Generally, a computer system is made with the integration of software (any software is only a single element of a computer system). The software is developed in units and then interfaced with other software and hardware to create a complete computer system. In other words, a computer system consists of a group of software to perform the various tasks, but only software cannot perform the task; for that software must be interfaced with compatible hardware. System testing is a series of different type of tests with the purpose to exercise and examine the full working of an integrated software computer system against requirements.
-
-![System Testing](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/2be0ebe4-6712-4fbd-9db2-073f0cab3816)
+i) System Testing includes testing of a fully integrated software system.  System testing is a series of different type of tests with the purpose to exercise and examine the full working of an integrated software computer system against requirements.
 
 ii) To check the end-to-end flow of an application or the software as a user is known as **System testing**. In this, we navigate (go through) all the necessary modules of an application and check if the end features or the end business works fine, and test the product as a whole system.
 
 iii) It is **end-to-end testing** where the testing environment is similar to the production environment.
 
+![System Testing](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/2be0ebe4-6712-4fbd-9db2-073f0cab3816)
 
 - **User Acceptance Testing:**
   
