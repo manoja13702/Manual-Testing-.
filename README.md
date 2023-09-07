@@ -37,10 +37,7 @@
     <td>QA & QC</td>
     <td><a href="https://github.com/manoja13702/Manual-Testing-./tree/main/006%20-%20QA%20%26%20QC">QA & QC</a></td>
   </tr>
-  <tr>
-    <td>Project Management Tool</td>
-    <td><a href="https://github.com/manoja13702/Manual-Testing-./tree/main/007%20-%20Project%20Management%20Tool">Project Management Tool</a></td>
-  </tr>
+ 
 </table>
 
 </body>
