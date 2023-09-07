@@ -1,6 +1,6 @@
 ﻿## What is Software Testing? ##
 
-The process of Software Testing aims not only at finding faults in the existing software but also at finding measures to improve the software in terms of efficiency, accuracy and usability. It mainly aims at measuring the specification, functionality and performance of a software program or application.
+The process of Software Testing is not only at finding faults in the existing software but also at finding measures to improve the software in terms of efficiency, accuracy and usability. It mainly aims at measuring the specification, functionality and performance of a software program or application.
 
 ![AS](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/8ae2b757-2769-420a-a1b8-4085e6ade93c)
 
