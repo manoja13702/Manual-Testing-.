@@ -34,7 +34,7 @@
 1) Since this is the coding phase, it takes the longest time and more focused approach for the developer in the software development life cycle.
 
    ---
-   Exampple: Development will do coding in this phase. They will develop the web pages, API’s required to implement the functionality.
+   Example: Development will do coding in this phase. They will develop the web pages, API’s required to implement the functionality.
    
 - Testing :
 1) Testing is the last step of completing a software system. In this phase, after getting the developed GUI and back-end combination, it is tested against the requirements stated in the requirement phase. Testing determines whether the software is actually giving the result as per the requirements addressed in the requirement phase or not. The Development team makes a test plan to start the test. This test plan includes all types of essential testing such as integration testing, unit testing, acceptance testing, and system testing. Non-functional testing is also done in this phase.
