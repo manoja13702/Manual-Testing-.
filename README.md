@@ -1,4 +1,4 @@
-#### Manual Testing 
+github#### Manual Testing 
 
  <!DOCTYPE html>
 <html>
@@ -36,6 +36,14 @@
   <tr>
     <td>QA & QC</td>
     <td><a href="https://github.com/manoja13702/Manual-Testing-./tree/main/006%20-%20QA%20%26%20QC">QA & QC</a></td>
+  </tr>
+  <tr>
+    <td>Jira</td>
+    <td><a href="https://github.com/manoja13702/Manual-Testing-./tree/main/007-%20Jira">Jira</a></td>
+  </tr>
+  <tr>
+    <td>Git</td>
+    <td><a href="https://github.com/manoja13702/Manual-Testing-./tree/main/008%20-%20Git">Git</a></td>
   </tr>
  
 </table>
